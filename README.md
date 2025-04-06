@@ -83,11 +83,12 @@ Run the app
 
 npx expo start
 Scan the QR code in Expo Go app on your mobile to preview.
+```
 
-🙋‍♀️ Developed By
+### 🙋‍♀️ Developed By
 Ayesha Tasnim
 Final Year B.Tech CSE Student
 ITER, SOA University, Bhubaneswar
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License.
