@@ -87,7 +87,9 @@ Scan the QR code in Expo Go app on your mobile to preview.
 
 ### 🙋‍♀️ Developed By
 Ayesha Tasnim
+
 Final Year B.Tech CSE Student
+
 ITER, SOA University, Bhubaneswar
 
 ### 📜 License
